@@ -80,8 +80,7 @@ Metrik evaluasi yang digunakan untuk menilai performa model:
 
 **Model terbaik**: Random Forest dengan Train_mse hanya **0.232899** dan Test_mse hanya **1.723313**.  
 
-### **Visualisasi Model MSE Comparison**  
-Model MSE Comparison.  
+### **Visualisasi Model MSE Comparison**
 ![Model MSE Comparison](ModelVisualization.png)
 ---
 

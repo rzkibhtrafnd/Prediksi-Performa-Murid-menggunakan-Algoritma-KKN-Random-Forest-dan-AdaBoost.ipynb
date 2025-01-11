@@ -82,7 +82,7 @@ Metrik evaluasi yang digunakan untuk menilai performa model:
 
 ### **Visualisasi Model MSE Comparison**  
 Model MSE Comparison.  
-![Model MSE Comparison](Model Visualization.png)
+![Model MSE Comparison](ModelVisualization.png)
 ---
 
 ## **Kesimpulan**
